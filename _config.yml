@@ -4,3 +4,5 @@ description: A minimal site for blogging.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
